@@ -1,5 +1,5 @@
 function get_email()
 {
-	var email = "geoffroy@planquart.fr";
+	var email = "gilles.humez@gmail.com";
 	document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 }
